@@ -1,2 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="Main.Main"/>
+    <fullyQualifiedTypeName name="java.util.regex.Matcher"/>
+    <fullyQualifiedTypeName name="java.util.regex.Pattern"/>
+    <fullyQualifiedTypeName name="funcional.EnviarCorreo"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="funcional.Resultado"/>
+    <fullyQualifiedTypeName name="funcional.Result.Exito"/>
+    <fullyQualifiedTypeName name="funcional.Result.Falla"/>
+    <fullyQualifiedTypeName name="funcional.Ejecutable"/>
+    <fullyQualifiedTypeName name="funcional.EjecutableOk"/>
+    <fullyQualifiedTypeName name="funcional.EjecutableFalla"/>
+    <fullyQualifiedTypeName name="funcional.Effect"/>
+    <fullyQualifiedTypeName name="java.util.function.Function"/>
+    <fullyQualifiedTypeName name="funcional.Success"/>
+    <fullyQualifiedTypeName name="funcional.Failure"/>
+    <fullyQualifiedTypeName name="funcional.Result"/>
+    <fullyQualifiedTypeName name="funcional.DefaultCase"/>
+    <fullyQualifiedTypeName name="funcional.Case"/>
+    <fullyQualifiedTypeName name="java.lang.SafeVarargs"/>
+</qualifiedTypeNameHistroy>
