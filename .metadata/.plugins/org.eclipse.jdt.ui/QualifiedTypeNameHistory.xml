@@ -12,11 +12,21 @@
     <fullyQualifiedTypeName name="funcional.EjecutableOk"/>
     <fullyQualifiedTypeName name="funcional.EjecutableFalla"/>
     <fullyQualifiedTypeName name="funcional.Effect"/>
-    <fullyQualifiedTypeName name="java.util.function.Function"/>
     <fullyQualifiedTypeName name="funcional.Success"/>
     <fullyQualifiedTypeName name="funcional.Failure"/>
     <fullyQualifiedTypeName name="funcional.Result"/>
     <fullyQualifiedTypeName name="funcional.DefaultCase"/>
     <fullyQualifiedTypeName name="funcional.Case"/>
+    <fullyQualifiedTypeName name="java.util.function.Supplier"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.lang.SafeVarargs"/>
+    <fullyQualifiedTypeName name="java.lang.FunctionalInterface"/>
+    <fullyQualifiedTypeName name="iteracion.ListaRecur"/>
+    <fullyQualifiedTypeName name="java.util.stream.Stream"/>
+    <fullyQualifiedTypeName name="java.util.EmptyStackException"/>
+    <fullyQualifiedTypeName name="iteracion.Empty"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="java.util.function.Consumer"/>
+    <fullyQualifiedTypeName name="iteracion.Lista"/>
+    <fullyQualifiedTypeName name="java.util.function.Function"/>
 </qualifiedTypeNameHistroy>
